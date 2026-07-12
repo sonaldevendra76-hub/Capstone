@@ -10,7 +10,7 @@ This repository will host my capstone project for the AI-assisted development tr
 
 \## Status
 
-🚧 Early setup phase — toolchain and repo structure are being established.
+Early setup phase — toolchain and repo structure are being established.
 
 
 
@@ -24,7 +24,20 @@ This repository will host my capstone project for the AI-assisted development tr
 
 \## Getting Started
 
-Instructions for running the project will be added once development begins.
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (LTS)
+- npm (included with Node.js)
+- Git
+
+### Setup (early phase)
+
+The application is not runnable yet. For now you can:
+
+1. Clone the repository: `git clone https://github.com/sonaldevendra76-hub/Capstone.git`
+2. Review `CLAUDE.md` for coding conventions used in this project
+
+Run and build instructions will be added once the project scaffold is in place.
 
 
 
